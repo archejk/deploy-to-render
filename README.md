@@ -3,25 +3,19 @@
 # deploy-to-render
 Test repository for deploying rails app in render
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Test RoR Project deployed on Render (Simple Landing Page)
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+This is a simple test project created to test the deployment in Render. It has been deployed to Render and is live.
 
-* System dependencies
+## Live Site
 
-* Configuration
+Visit the live site [here](https://mysite-ma4v.onrender.com/).
 
-* Database creation
+## Technologies Used
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Core Technology: Ruby on Rails
+- HTML
+- SCSS
+- Render
