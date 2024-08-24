@@ -7,7 +7,7 @@ Test repository for deploying rails app in render
 
 ## Description
 
-This is a simple RoR project created to test the deployment in Render. It has been deployed to [Render](https://render.com/) and is live.
+This is a simple RoR test project to test the deployment in Render.
 
 ## Live Site
 
